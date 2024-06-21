@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#17181A</color>
+    <color name="backgroundAd">#21242B</color>
+    <color name="black">#222222</color>
+    <color name="error">#F01F0E</color>
+    <color name="mainText">#FFFFFFFF</color>
+    <color name="primary">#DB3022</color>
+    <color name="sale">#DB3022</color>
+    <color name="success">#2AA952</color>
+    <color name="textAd">#9B9B9B</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="BottomSheetDialogTheme" parent="Theme.Design.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/background_dark</item>
+    </style>
+    <style name="Theme.BuyNow" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/primary</item>
+        <item name="colorSecondaryVariant">@color/sale</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowLightStatusBar" ns1:targetApi="23">false</item>
+    </style>
+</resources>

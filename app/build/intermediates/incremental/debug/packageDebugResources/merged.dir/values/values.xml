@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#F9F9F9</color>
+    <color name="backgroundAd">#FFFFFFFF</color>
+    <color name="black">#222222</color>
+    <color name="error">#F01F0E</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="mainText">#222222</color>
+    <color name="primary">#DB3022</color>
+    <color name="sale">#DB3022</color>
+    <color name="success">#2AA952</color>
+    <color name="textAd">#9B9B9B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_card">Add Card</string>
+    <string name="add_new_card">Add new Card</string>
+    <string name="add_to_bag">Add To Bag</string>
+    <string name="app_name">BuyNow</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="card_number">* * * * * * * * * * * * 3947</string>
+    <string name="card_number_star">**** **** **** </string>
+    <string name="empty_favourite">Empty Favourite</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="gcm_defaultSenderId" translatable="false">370157218518</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSlVR8_mAQ0LQno2maSczlYGTZrxy2C94</string>
+    <string name="google_app_id" translatable="false">1:370157218518:android:965e78ae5fc1e00427b777</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSlVR8_mAQ0LQno2maSczlYGTZrxy2C94</string>
+    <string name="google_storage_bucket" translatable="false">uasppbkelompokproject.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_product">New</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="project_id" translatable="false">uasppbkelompokproject</string>
+    <string name="use_as_default_payment_method">Use as default payment method</string>
+    <style name="BottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="Theme.BuyNow" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/primary</item>
+        <item name="colorSecondaryVariant">@color/sale</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+        <item name="android:windowLightStatusBar" ns1:targetApi="23">true</item>
+
+    </style>
+</resources>

@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_visa_card.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/visa_card.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_credit_card.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_credit_card.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/font_metropolis_semibold.otf.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/font/metropolis_semibold.otf"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_visa.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_visa.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_payment_method.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_payment_method.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/font_metropolis_light.otf.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/font/metropolis_light.otf"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_bags.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/bags.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_shopping_cart.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_menu_bg.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/menu_bg.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_custom_dialog.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_single_card.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/single_card.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_discount_bg.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/discount_bg.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_search.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_unionpay.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_unionpay.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_btn_bg.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_check.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_shiping_address.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_shiping_address.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_single_product.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/single_product.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/menu_profile_photo_storage.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/menu/profile_photo_storage.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_visual_search.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_visual_search.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_btn_bg2.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/btn_bg2.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_cover_single.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/cover_single.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_visa.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/visa.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_baseline_remove_24.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_american_express.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_american_express.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_email_verify.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_email_verify.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_visual_result.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_visual_result.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_edit_text_bg.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_cardadd_botom_sheet.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/cardadd_botom_sheet.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_category_single.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/category_single.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_login.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_fragment_bag.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/fragment_bag.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_discover.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_discover.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_fragment_add_to_bag.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/fragment_add_to_bag.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_add_address.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_add_address.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_bag.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_bag.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_jcb.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_jcb.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_card.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_card.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_fragment_shop.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_product_details.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_product_details.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_fragment_profile.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_diners_club.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_diners_club.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_visual_predict.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/visual_predict.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/font_metropolis_regular.otf.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/font/metropolis_regular.otf"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_fragment_fav.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_new_product_bg.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/new_product_bg.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_mastercard.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_mastercard.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_strock_bg.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/strock_bg.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_baseline_clear_24.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_circle_bg.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_cart_item_single.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/cart_item_single.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/font_metropolis_bold.otf.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/font/metropolis_bold.otf"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_predicted_result_single.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/predicted_result_single.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_home.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_email.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/raw_empty_bag.json.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/raw/empty_bag.json"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_back.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_mastercard.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/mastercard.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_home.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_activity_settings.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_fav.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_fav.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_visual_bg.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/visual_bg.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/layout_fragment_home.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_success.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_success.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_bn.png.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/bn.png"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_visual_search.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_visual_search.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_profile.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/menu_botom_nav_menu.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/menu/botom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/font_metropolis_m.otf.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/font/metropolis_m.otf"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/raw_progress.json.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/raw/progress.json"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/raw_empty.json.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/raw/empty.json"
+    },
+    {
+        "merged": "com.example.uasppbprojectkelompok.app-merged_res-83:/raw_circle_progress.json.flat",
+        "source": "com.example.uasppbprojectkelompok.app-main-85:/raw/circle_progress.json"
+    }
+]
